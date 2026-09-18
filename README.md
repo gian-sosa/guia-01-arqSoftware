@@ -14,22 +14,50 @@
 
 ## 📖 Descripción del curso
 
-El curso de Arquitectura de Software aborda los principios, decisiones y prácticas necesarias para organizar y estructurar sistemas de software, considerando aspectos como mantenibilidad, escalabilidad, seguridad, rendimiento y evolución del sistema.
+El curso de **Arquitectura de Software** tiene como finalidad desarrollar conocimientos teóricos y prácticos sobre el diseño, estructuración y organización de sistemas de software, abordando patrones arquitectónicos, principios de diseño y buenas prácticas que permitan construir soluciones escalables, mantenibles, seguras y eficientes para resolver problemas reales de la Ingeniería de Sistemas.
 
-## Expectativas del curso
+---
 
-Mis expectativas respecto al curso son comprender los fundamentos de la arquitectura de software y aprender a tomar decisiones adecuadas sobre la organización y estructura de una aplicación. También espero fortalecer mis conocimientos en el uso de herramientas como Git, GitHub, Node.js y otras tecnologías que permitan desarrollar proyectos de software de manera organizada y profesional.
+## 🎯 Expectativas del estudiante
 
-## Evidencias
+| Expectativa | Descripción |
+|---|---|
+| **Diseño de sistemas** | Comprender cómo diseñar y estructurar arquitecturas de software sólidas y eficientes. |
+| **Patrones arquitectónicos** | Conocer y aplicar diferentes patrones y estilos arquitectónicos según las necesidades de cada sistema. |
+| **Buenas prácticas** | Fortalecer el uso de principios y buenas prácticas para desarrollar software mantenible, escalable y seguro. |
+| **Aplicación práctica** | Aplicar los conocimientos adquiridos en proyectos reales y académicos de Ingeniería de Sistemas. |
+| **Desarrollo profesional** | Mejorar mi capacidad para tomar decisiones técnicas y proponer soluciones arquitectónicas adecuadas. |
 
-### Verificación del entorno de desarrollo
+---
 
-![Evidencia 01](img/img01.png)
+## 📝 Evidencias Ejercicio 1
 
-![Evidencia 02](img/img02.png)
+### Paso 1 - Verificar versiones
 
-![Evidencia 03](img/img03.png)
+<p align="center">
+  <img src="./img/ejercicio1-1.png" width="700">
+</p>
 
-![Evidencia 04](img/img04.png)
+### Paso 2 - Configurar tu identidad en Git
 
-![Evidencia 04](img/img05.png)
+<p align="center">
+  <img src="./img/ejercicio1-2.png" width="700">
+</p>
+
+---
+
+## 📝 Evidencias Ejercicio 2
+
+### Paso 1 - Crear el proyecto
+
+<p align="center">
+  <img src="./img/ejercicio2-1.png" width="700">
+</p>
+
+### Paso 2 - Crear la estructura de carpetas
+
+<p align="center">
+  <img src="./img/ejercicio2-2.png" width="700">
+</p>
+
+---
