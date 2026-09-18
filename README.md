@@ -1,20 +1,20 @@
-# 📚 [NOMBRE DEL CURSO]
+# 📚 Arquitetura de Software IS-488
 
 ## 👨‍🎓 Datos generales
 
 | Información | Detalle |
 |---|---|
-| **Estudiante** | Gian Carlos [APELLIDOS] |
+| **Estudiante** | Gian Carlos Mallqui Sosa |
 | **Carrera** | Ingeniería de Sistemas |
 | **Universidad** | Universidad Nacional de San Cristóbal de Huamanga |
 | **Periodo académico** | 2026-II |
-| **Docente** | [NOMBRE COMPLETO DEL DOCENTE] |
+| **Docente** | Ing. LIZBETH JAICO QUISPE |
 
 ---
 
 ## 📖 Descripción del curso
 
-El curso de **[NOMBRE DEL CURSO]** tiene como finalidad desarrollar conocimientos teóricos y prácticos relacionados con **[DESCRIPCIÓN BREVE DEL CURSO]**, permitiendo al estudiante aplicar estos conocimientos en la resolución de problemas y desarrollo de proyectos relacionados con la Ingeniería de Sistemas.
+El curso de **Arquitectura de Software** tiene como finalidad desarrollar conocimientos teóricos y prácticos sobre el diseño, estructuración y organización de sistemas de software, abordando patrones arquitectónicos, principios de diseño y buenas prácticas que permitan construir soluciones escalables, mantenibles, seguras y eficientes para resolver problemas reales de la Ingeniería de Sistemas.
 
 ---
 
@@ -22,10 +22,11 @@ El curso de **[NOMBRE DEL CURSO]** tiene como finalidad desarrollar conocimiento
 
 | Expectativa | Descripción |
 |---|---|
-| **Aprendizaje** | Adquirir conocimientos sólidos sobre los principales temas del curso. |
-| **Aplicación práctica** | Aplicar los conocimientos adquiridos en proyectos y situaciones reales. |
-| **Herramientas** | Aprender a utilizar adecuadamente las herramientas y tecnologías relacionadas con el curso. |
-| **Desarrollo profesional** | Fortalecer mis habilidades para resolver problemas y desarrollar soluciones eficientes. |
+| **Diseño de sistemas** | Comprender cómo diseñar y estructurar arquitecturas de software sólidas y eficientes. |
+| **Patrones arquitectónicos** | Conocer y aplicar diferentes patrones y estilos arquitectónicos según las necesidades de cada sistema. |
+| **Buenas prácticas** | Fortalecer el uso de principios y buenas prácticas para desarrollar software mantenible, escalable y seguro. |
+| **Aplicación práctica** | Aplicar los conocimientos adquiridos en proyectos reales y académicos de Ingeniería de Sistemas. |
+| **Desarrollo profesional** | Mejorar mi capacidad para tomar decisiones técnicas y proponer soluciones arquitectónicas adecuadas. |
 
 ---
 
@@ -34,13 +35,13 @@ El curso de **[NOMBRE DEL CURSO]** tiene como finalidad desarrollar conocimiento
 ### Paso 1
 
 <p align="center">
-  <img src="./img/paso1.png" width="700">
+  <img src="./img/ejercicio1-1.png" width="700">
 </p>
 
 ### Paso 2
 
 <p align="center">
-  <img src="./img/paso2.png" width="700">
+  <img src="./img/ejercicio1-2.png" width="700">
 </p>
 
 ---
