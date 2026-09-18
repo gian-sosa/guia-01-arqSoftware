@@ -4,7 +4,7 @@
 
 | Información | Detalle |
 |---|---|
-| **Estudiante** | Gian Carlos Mallqui Sosa |
+| **Estudiante** | GIAN CARLOS MALLQUI SOSA |
 | **Carrera** | Ingeniería de Sistemas |
 | **Universidad** | Universidad Nacional de San Cristóbal de Huamanga |
 | **Periodo académico** | 2026-II |
