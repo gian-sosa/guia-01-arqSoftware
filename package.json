@@ -1,0 +1,31 @@
+{
+  "name": "guia-01-arqsoftware",
+  "version": "1.0.0",
+  "description": "| Información | Detalle |\r |---|---|\r | **Estudiante** | Gian Carlos Mallqui Sosa |\r | **Carrera** | Ingeniería de Sistemas |\r | **Universidad** | Universidad Nacional de San Cristóbal de Huamanga |\r | **Periodo académico** | 2026-II |\r | **Docente** | Ing. LIZBETH JAICO QUISPE |",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gian-sosa/guia-01-arqSoftware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gian-sosa/guia-01-arqSoftware/issues"
+  },
+  "homepage": "https://github.com/gian-sosa/guia-01-arqSoftware#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

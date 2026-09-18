@@ -30,15 +30,15 @@ El curso de **Arquitectura de Software** tiene como finalidad desarrollar conoci
 
 ---
 
-## 📝 Evidencias
+## 📝 Evidencias Ejercicio 1
 
-### Paso 1
+### Paso 1 - Verificar versiones
 
 <p align="center">
   <img src="./img/ejercicio1-1.png" width="700">
 </p>
 
-### Paso 2
+### Paso 2 - Configurar tu identidad en Git
 
 <p align="center">
   <img src="./img/ejercicio1-2.png" width="700">
@@ -46,11 +46,18 @@ El curso de **Arquitectura de Software** tiene como finalidad desarrollar conoci
 
 ---
 
-## 📂 Estructura del repositorio
+## 📝 Evidencias Ejercicio 2
 
-```text
-📦 repositorio
- ┣ 📂 img
- ┃ ┣ 🖼️ paso1.png
- ┃ ┗ 🖼️ paso2.png
- ┗ 📜 README.md
+### Paso 1 - Crear el proyecto
+
+<p align="center">
+  <img src="./img/ejercicio2-1.png" width="700">
+</p>
+
+### Paso 2 - Crear la estructura de carpetas
+
+<p align="center">
+  <img src="./img/ejercicio2-2.png" width="700">
+</p>
+
+---
